@@ -18,7 +18,7 @@ npm install
 ```
 ### Compile Contracts 🛠️
 
- Run: -- To Compile contracts to create artifacts of contracts
+ Run: -- To Compile contracts - create artifacts of contracts
 
 ```
 npx hardhat compile
