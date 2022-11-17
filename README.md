@@ -16,7 +16,7 @@ cd src/contracts
 ```
 npm install
 ```
-### Compiling the Contracts 🛠️
+### Compile Contracts 🛠️
 
  Run: -- To Compile contracts to create artifacts of contracts
 
